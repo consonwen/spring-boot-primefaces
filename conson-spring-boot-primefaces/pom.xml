@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<jsf.version>2.4.0</jsf.version>
-		<primefaces.version>7.0</primefaces.version>
+		<primefaces.version>8.0</primefaces.version>
 		<cdi.version>2.0</cdi.version>
 	</properties>
 
